@@ -1,0 +1,120 @@
+id,sex,year,entry,density,class,fate,cause,event_age,exit,event,density100,male,year2014
+3,F,2013,10,487,urban,Survived,,,224,0,4.87,0,0
+22,F,2013,7,2,rural,Survived,,,224,0,0.02,0,0
+43,M,2013,12,351,urban,Censored,,46,46,0,3.51,1,0
+64,M,2013,1,457,urban,Censored,,168,168,0,4.57,1,0
+81,M,2013,18,2,rural,Survived,,,224,0,0.02,1,0
+103,F,2013,15,127,suburban,Censored,,102,102,0,1.27,0,0
+123,F,2013,15,2,rural,Mortality,Coyote Predation,28,28,1,0.02,0,0
+143,F,2013,9,303,urban,Survived,,,224,0,3.03,0,0
+163,M,2013,11,100,suburban,Mortality,Vehicle Collision,177,177,1,1,1,0
+184,M,2013,8,400,urban,Censored,,130,130,0,4,1,0
+202,F,2013,17,21,exurban,Censored,,157,157,0,0.21,0,0
+223,F,2013,9,0,rural,Mortality,Coyote Predation,32,32,1,0,0,0
+243,F,2013,7,880,urban,Mortality,Vehicle Collision,32,32,1,8.8,0,0
+262,M,2013,12,2,rural,Mortality,Hunting,188,188,1,0.02,1,0
+283,F,2013,4,873,urban,Mortality,Vehicle Collision,103,103,1,8.73,0,0
+304,M,2013,3,146,suburban,Mortality,Dog Predation,12,12,1,1.46,1,0
+322,F,2013,7,19,exurban,Mortality,Hunting,157,157,1,0.19,0,0
+364,F,2013,4,71,suburban,Survived,,,224,0,0.71,0,0
+382,F,2013,11,0,rural,Mortality,Coyote Predation,16,16,1,0,0,0
+423,F,2013,10,2,rural,Mortality,Hunting,189,189,1,0.02,0,0
+441,M,2013,12,434,urban,Survived,,,224,0,4.34,1,0
+462,F,2013,9,34,suburban,Censored,,18,18,0,0.34,0,0
+483,F,2013,7,880,urban,Survived,,,224,0,8.8,0,0
+505,F,2013,7,434,urban,Mortality,Dog Predation,16,16,1,4.34,0,0
+523,F,2013,9,337,urban,Censored,,148,148,0,3.37,0,0
+544,M,2013,8,453,urban,Survived,,,224,0,4.53,1,0
+564,M,2013,8,536,urban,Censored,,97,97,0,5.36,1,0
+583,M,2013,11,475,urban,Censored,,208,208,0,4.75,1,0
+603,F,2013,7,2,rural,Censored,,195,195,0,0.02,0,0
+622,F,2013,6,0,rural,Censored,,151,151,0,0,0,0
+642,M,2013,15,401,urban,Mortality,Vehicle Collision,107,107,1,4.01,1,0
+664,M,2013,15,429,urban,Mortality,Vehicle Collision,115,115,1,4.29,1,0
+683,M,2013,8,460,urban,Survived,,,224,0,4.6,1,0
+702,M,2013,5,0,rural,Mortality,Unknown Mortality,10,10,1,0,1,0
+723,F,2013,3,311,urban,Survived,,,224,0,3.11,0,0
+744,M,2013,10,2,rural,Mortality,Hunting,189,189,1,0.02,1,0
+762,M,2013,10,337,urban,Survived,,,224,0,3.37,1,0
+783,M,2013,16,0,rural,Survived,,,224,0,0,1,0
+803,F,2013,6,1033,urban,Censored,,99,99,0,10.33,0,0
+822,F,2013,9,482,urban,Mortality,Vehicle Collision,95,95,1,4.82,0,0
+843,F,2013,6,796,urban,Survived,,,224,0,7.96,0,0
+883,M,2013,10,336,urban,Survived,,,224,0,3.36,1,0
+903,F,2013,16,2,rural,Survived,,,224,0,0.02,0,0
+922,F,2013,20,5,rural,Survived,,,224,0,0.05,0,0
+943,M,2013,14,2,rural,Survived,,,224,0,0.02,1,0
+962,M,2013,6,71,suburban,Mortality,Abandonment,31,31,1,0.71,1,0
+983,F,2013,10,266,urban,Survived,,,224,0,2.66,0,0
+12,F,2014,3,0,rural,Mortality,Coyote Predation,9,9,1,0,0,1
+32,M,2014,5,1,rural,Mortality,Vehicle Collision,42,42,1,0.01,1,1
+43,F,2014,3,422,urban,Survived,,,224,0,4.22,0,1
+52,M,2014,5,31,suburban,Censored,,175,175,0,0.31,1,1
+64,F,2014,3,276,urban,Censored,,17,17,0,2.76,0,1
+71,M,2014,6,353,urban,Mortality,Vehicle Collision,11,11,1,3.53,1,1
+93,F,2014,4,2,rural,Mortality,Coyote Predation,40,40,1,0.02,0,1
+113,M,2014,3,0,rural,Mortality,Coyote Predation,35,35,1,0,1,1
+123,M,2014,1,389,urban,Censored,,45,45,0,3.89,1,1
+132,F,2014,4,378,urban,Mortality,Vehicle Collision,168,168,1,3.78,0,1
+153,M,2014,2,446,urban,Survived,,,224,0,4.46,1,1
+163,F,2014,21,303,urban,Survived,,,224,0,3.03,0,1
+174,F,2014,4,141,suburban,Survived,,,224,0,1.41,0,1
+184,M,2014,4,3,rural,Mortality,Coyote Predation,61,61,1,0.03,1,1
+192,F,2014,5,347,urban,Survived,,,224,0,3.47,0,1
+202,M,2014,11,458,urban,Mortality,Vehicle Collision,53,53,1,4.58,1,1
+234,F,2014,3,481,urban,Survived,,,224,0,4.81,0,1
+243,F,2014,3,399,urban,Survived,,,224,0,3.99,0,1
+253,M,2014,4,6,exurban,Survived,,,224,0,0.06,1,1
+273,M,2014,1,1009,urban,Survived,,,224,0,10.09,1,1
+283,M,2014,32,444,urban,Mortality,Coyote Predation,45,45,1,4.44,1,1
+292,M,2014,3,2,rural,Mortality,Coyote Predation,16,16,1,0.02,1,1
+304,M,2014,5,424,urban,Survived,,,224,0,4.24,1,1
+313,M,2014,6,1,rural,Mortality,Coyote Predation,56,56,1,0.01,1,1
+322,F,2014,2,537,urban,Mortality,Vehicle Collision,156,156,1,5.37,0,1
+333,F,2014,4,2,rural,Mortality,Coyote Predation,12,12,1,0.02,0,1
+344,M,2014,3,355,urban,Survived,,,224,0,3.55,1,1
+352,M,2014,4,417,urban,Mortality,Coyote Predation,28,28,1,4.17,1,1
+372,M,2014,3,0,rural,Mortality,Coyote Predation,7,7,1,0,1,1
+382,F,2014,3,728,urban,Survived,,,224,0,7.28,0,1
+392,F,2014,2,3,rural,Censored,,158,158,0,0.03,0,1
+403,M,2014,5,515,urban,Survived,,,224,0,5.15,1,1
+412,M,2014,4,15,exurban,Survived,,,224,0,0.15,1,1
+432,M,2014,3,571,urban,Censored,,163,163,0,5.71,1,1
+452,M,2014,3,76,suburban,Mortality,Coyote Predation,13,13,1,0.76,1,1
+462,F,2014,3,895,urban,Survived,,,224,0,8.95,0,1
+472,M,2014,2,0,rural,Survived,,,224,0,0,1,1
+513,M,2014,3,2,rural,Mortality,Coyote Predation,18,18,1,0.02,1,1
+523,M,2014,3,985,urban,Survived,,,224,0,9.85,1,1
+531,M,2014,24,273,urban,Mortality,Coyote Predation,50,50,1,2.73,1,1
+552,M,2014,3,46,suburban,Mortality,Coyote Predation,37,37,1,0.46,1,1
+564,F,2014,3,2,rural,Survived,,,224,0,0.02,0,1
+583,F,2014,3,431,urban,Censored,,25,25,0,4.31,0,1
+592,M,2014,17,28,suburban,Mortality,Coyote Predation,26,26,1,0.28,1,1
+603,M,2014,4,825,urban,Survived,,,224,0,8.25,1,1
+611,F,2014,3,21,exurban,Survived,,,224,0,0.21,0,1
+622,M,2014,4,516,urban,Censored,,90,90,0,5.16,1,1
+631,F,2014,2,314,urban,Survived,,,224,0,3.14,0,1
+642,F,2014,2,529,urban,Survived,,,224,0,5.29,0,1
+651,F,2014,2,346,urban,Mortality,Vehicle Collision,173,173,1,3.46,0,1
+664,F,2014,5,395,urban,Survived,,,224,0,3.95,0,1
+671,M,2014,1,425,urban,Censored,,9,9,0,4.25,1,1
+691,F,2014,15,262,urban,Mortality,Coyote Predation,29,29,1,2.62,0,1
+702,M,2014,4,515,urban,Mortality,Unknown Mortality,97,97,1,5.15,1,1
+711,F,2014,2,3,rural,Mortality,Vehicle Collision,14,14,1,0.03,0,1
+731,F,2014,1,0,rural,Survived,,,224,0,0,0,1
+752,F,2014,4,2,rural,Mortality,Coyote Predation,28,28,1,0.02,0,1
+771,M,2014,4,441,urban,Survived,,,224,0,4.41,1,1
+791,F,2014,7,1,rural,Mortality,Coyote Predation,33,33,1,0.01,0,1
+811,F,2014,2,984,urban,Mortality,Vehicle Collision,14,14,1,9.84,0,1
+822,M,2014,4,64,suburban,Mortality,Coyote Predation,5,5,1,0.64,1,1
+832,F,2014,3,0,rural,Censored,,21,21,0,0,0,1
+852,F,2014,6,2,rural,Censored,,149,149,0,0.02,0,1
+862,M,2014,1,0,rural,Mortality,Coyote Predation,20,20,1,0,1,1
+871,M,2014,35,596,urban,Survived,,,224,0,5.96,1,1
+891,F,2014,3,831,urban,Mortality,Vehicle Collision,22,22,1,8.31,0,1
+911,F,2014,1,481,urban,Survived,,,224,0,4.81,0,1
+932,M,2014,2,446,urban,Survived,,,224,0,4.46,1,1
+951,M,2014,4,425,urban,Survived,,,224,0,4.25,1,1
+962,M,2014,2,2,rural,Mortality,Coyote Predation,9,9,1,0.02,1,1
+972,F,2014,10,553,urban,Censored,,89,89,0,5.53,0,1
+991,F,2014,3,364,urban,Survived,,,224,0,3.64,0,1
